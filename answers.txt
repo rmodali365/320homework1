@@ -1,0 +1,2 @@
+What is a remote repository?
+A remote repo is a repo that on the cloud hosted by various services like GitHub and Bitbucket. When you are working with other team members and you finish changes you want to push your changes to the remote repo so the other members can access those changes and incorporate them into their own workings.
